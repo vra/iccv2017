@@ -1,0 +1,160 @@
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{bilen2016dynamic}
+H.~Bilen, B.~Fernando, E.~Gavves, A.~Vedaldi, and S.~Gould.
+\newblock Dynamic image networks for action recognition.
+\newblock In {\em CVPR}, pages 3034--3042, 2016.
+
+\bibitem{chaudhry2009histograms}
+R.~Chaudhry, A.~Ravichandran, G.~Hager, and R.~Vidal.
+\newblock Histograms of oriented optical flow and binet-cauchy kernels on
+  nonlinear dynamical systems for the recognition of human actions.
+\newblock In {\em CVPR}, pages 1932--1939, 2009.
+
+\bibitem{cortes1995support}
+C.~Cortes and V.~Vapnik.
+\newblock Support-vector networks.
+\newblock {\em Machine Learning}, 20(3):273--297, 1995.
+
+\bibitem{dalal2005histograms}
+N.~Dalal and B.~Triggs.
+\newblock Histograms of oriented gradients for human detection.
+\newblock In {\em CVPR}, volume~1, pages 886--893, 2005.
+
+\bibitem{dalal2006human}
+N.~Dalal, B.~Triggs, and C.~Schmid.
+\newblock Human detection using oriented histograms of flow and appearance.
+\newblock In {\em ECCV}, pages 428--441, 2006.
+
+\bibitem{everingham2010pascal}
+M.~Everingham, L.~Van~Gool, C.~K. Williams, J.~Winn, and A.~Zisserman.
+\newblock The pascal visual object classes (voc) challenge.
+\newblock {\em International Journal of Computer Vision}, 88(2):303--338, 2010.
+
+\bibitem{Feichtenhofer16}
+C.~Feichtenhofer, A.~Pinz, and A.~Zisserman.
+\newblock Convolutional two-stream network fusion for video action recognition.
+\newblock In {\em CVPR}, 2016.
+
+\bibitem{girshick2016region}
+R.~Girshick, J.~Donahue, T.~Darrell, and J.~Malik.
+\newblock Region-based convolutional networks for accurate object detection and
+  segmentation.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  38(1):142--158, 2016.
+
+\bibitem{gkioxari2015contextual}
+G.~Gkioxari, R.~Girshick, and J.~Malik.
+\newblock Contextual action recognition with r* cnn.
+\newblock In {\em ICCV}, pages 1080--1088, 2015.
+
+\bibitem{jegou2010aggregating}
+H.~J{\'e}gou, M.~Douze, C.~Schmid, and P.~P{\'e}rez.
+\newblock Aggregating local descriptors into a compact image representation.
+\newblock In {\em CVPR}, pages 3304--3311, 2010.
+
+\bibitem{karpathy2014large}
+A.~Karpathy, G.~Toderici, S.~Shetty, T.~Leung, R.~Sukthankar, and L.~Fei-Fei.
+\newblock Large-scale video classification with convolutional neural networks.
+\newblock In {\em CVPR}, pages 1725--1732, 2014.
+
+\bibitem{nowak2006sampling}
+E.~Nowak, F.~Jurie, and B.~Triggs.
+\newblock Sampling strategies for bag-of-features image classification.
+\newblock In {\em ECCV}, pages 490--503, 2006.
+
+\bibitem{perronnin2010improving}
+F.~Perronnin, J.~S{\'a}nchez, and T.~Mensink.
+\newblock Improving the fisher kernel for large-scale image classification.
+\newblock In {\em ECCV}, pages 143--156, 2010.
+
+\bibitem{ren2015faster}
+S.~Ren, K.~He, R.~Girshick, and J.~Sun.
+\newblock Faster r-cnn: Towards real-time object detection with region proposal
+  networks.
+\newblock In {\em NIPS}, pages 91--99, 2015.
+
+\bibitem{simonyan2014two}
+K.~Simonyan and A.~Zisserman.
+\newblock Two-stream convolutional networks for action recognition in videos.
+\newblock In {\em NIPS}, pages 568--576, 2014.
+
+\bibitem{simonyan2014very}
+K.~Simonyan and A.~Zisserman.
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock {\em arXiv preprint arXiv:1409.1556}, 2014.
+
+\bibitem{soomro2012ucf101}
+K.~Soomro, A.~R. Zamir, and M.~Shah.
+\newblock Ucf101: A dataset of 101 human actions classes from videos in the
+  wild.
+\newblock {\em arXiv preprint arXiv:1212.0402}, 2012.
+
+\bibitem{sun2015human}
+L.~Sun, K.~Jia, D.-Y. Yeung, and B.~E. Shi.
+\newblock Human action recognition using factorized spatio-temporal
+  convolutional networks.
+\newblock In {\em ICCV}, pages 4597--4605, 2015.
+
+\bibitem{Tran_2015_ICCV}
+D.~Tran, L.~Bourdev, R.~Fergus, L.~Torresani, and M.~Paluri.
+\newblock Learning spatiotemporal features with 3d convolutional networks.
+\newblock In {\em ICCV}, December 2015.
+
+\bibitem{uijlings2013selective}
+J.~R. Uijlings, K.~E. Van De~Sande, T.~Gevers, and A.~W. Smeulders.
+\newblock Selective search for object recognition.
+\newblock {\em International Journal of Computer Vision}, 104(2):154--171,
+  2013.
+
+\bibitem{van2011segmentation}
+K.~E. Van~de Sande, J.~R. Uijlings, T.~Gevers, and A.~W. Smeulders.
+\newblock Segmentation as selective search for object recognition.
+\newblock In {\em ICCV}, pages 1879--1886, 2011.
+
+\bibitem{wang2011action}
+H.~Wang, A.~Kl{\"a}ser, C.~Schmid, and C.-L. Liu.
+\newblock Action recognition by dense trajectories.
+\newblock In {\em CVPR}, pages 3169--3176, 2011.
+
+\bibitem{wang2013action}
+H.~Wang and C.~Schmid.
+\newblock Action recognition with improved trajectories.
+\newblock In {\em ICCV}, pages 3551--3558, 2013.
+
+\bibitem{WangQT15a}
+L.~Wang, Y.~Qiao, and X.~Tang.
+\newblock Action recognition with trajectory-pooled deep-convolutional
+  descriptors.
+\newblock In {\em CVPR}, pages 4305--4314, 2015.
+
+\bibitem{wang2016temporal}
+L.~Wang, Y.~Xiong, Z.~Wang, Y.~Qiao, D.~Lin, X.~Tang, and L.~Van~Gool.
+\newblock Temporal segment networks: towards good practices for deep action
+  recognition.
+\newblock In {\em ECCV}, pages 20--36, 2016.
+
+\bibitem{wang2016two}
+Y.~Wang, J.~Song, L.~Wang, L.~Van~Gool, and O.~Hilliges.
+\newblock Two-stream sr-cnns for action recognition in videos.
+\newblock BMVC, 2016.
+
+\bibitem{zhang2015multi}
+Q.~Zhang and G.~Hua.
+\newblock Multi-view visual recognition of imperfect testing data.
+\newblock In {\em MM}, pages 561--570, 2015.
+
+\bibitem{zhang2015auxiliary}
+Q.~Zhang, G.~Hua, W.~Liu, Z.~Liu, and Z.~Zhang.
+\newblock Auxiliary training information assisted visual recognition.
+\newblock {\em IPSJ Transactions on Computer Vision and Applications},
+  7:138--150, 2015.
+
+\bibitem{zhang2015can}
+Q.~Zhang, G.~Hua, W.~Liu, Z.~Liu, and Z.~Zhang.
+\newblock Can visual recognition benefit from auxiliary information in
+  training?
+\newblock In {\em ACCV}, volume 9003 of {\em Lecture Notes in Computer
+  Science}, pages 65--80, 2015.
+
+\end{thebibliography}

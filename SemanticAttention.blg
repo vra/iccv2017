@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2016/Cygwin)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: SemanticAttention.aux
+The style file: ieee.bst
+Database file #1: SemanticAttention_bib.bib
+Repeated entry---line 250 of file SemanticAttention_bib.bib
+ : @inproceedings{bilen2016dynamic
+ :                                ,
+I'm skipping whatever remains of this entry
+Warning--empty booktitle in wang2016two
+You've used 29 entries,
+            2120 wiz_defined-function locations,
+            642 strings with 8413 characters,
+and the built_in function-call counts, 13375 in all, are:
+= -- 1315
+> -- 627
+< -- 21
++ -- 246
+- -- 216
+* -- 896
+:= -- 1991
+add.period$ -- 87
+call.type$ -- 29
+change.case$ -- 195
+chr.to.int$ -- 0
+cite$ -- 30
+duplicate$ -- 568
+empty$ -- 1052
+format.name$ -- 216
+if$ -- 2951
+int.to.chr$ -- 0
+int.to.str$ -- 29
+missing$ -- 29
+newline$ -- 148
+num.names$ -- 58
+pop$ -- 253
+preamble$ -- 1
+purify$ -- 166
+quote$ -- 0
+skip$ -- 476
+stack$ -- 0
+substring$ -- 927
+swap$ -- 238
+text.length$ -- 21
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 116
+warning$ -- 1
+while$ -- 123
+width$ -- 31
+write$ -- 318
+(There was 1 error message)
